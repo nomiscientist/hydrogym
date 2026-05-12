@@ -106,7 +106,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -136,4 +135,5 @@ dmypy.json
 examples/firedrake/getting_started/output/
 
 # VSCode
-.vscode/
+config.bat
+node_modules
